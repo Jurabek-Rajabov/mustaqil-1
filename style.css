@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+header{
+    width: 100%;
+    height: auto;
+}
+.nav{
+    display: flex;
+    margin: 1rem;
+}
+.kirish{
+    display: flex;
+    margin-top: 3rem;
+    margin-right: 3rem;
+}
+.poisk{
+    margin-top: 3rem;
+    margin-right: 3rem;
+    border-radius: 5rem; 
+}
+.kir{
+    margin-top: 3rem;
+    border-radius: 100%;
+}
